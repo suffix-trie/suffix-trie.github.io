@@ -22,7 +22,7 @@ The goal of this guide is to reverse engineer the firmware of the Tenways CGO600
 1. Obtain the firmware of the display.
 2. Decompile it using [Ghidra](https://ghidra-sre.org/){:target="_blank"}.
 3. Find the part of the code that sets the speed limit.
-4. Change the assembly instructions of that function to remove the speed limit.
+4. Change the assembly instructions to remove the speed limit.
 5. Upload the modified firmware to the bike's display via Bluetooth.
 
 # CGO600 system
