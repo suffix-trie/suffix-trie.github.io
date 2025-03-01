@@ -371,4 +371,13 @@ Did you enjoy this guide? Buy me a coffee! I would really appreciate it!
 </div>
 <br>
 
+Or use PayPal:
+
+<div style="text-align: center;">
+    <a href="https://paypal.me/suffixtrie42" target="_blank" style="display: inline-block; background-color: #0070ba; color: white; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px;">
+        Donate with PayPal
+    </a>
+</div>
+<br>
+
 Do you have a question or comment? Email me: `pyrites_loudest0q at icloud dot com`
